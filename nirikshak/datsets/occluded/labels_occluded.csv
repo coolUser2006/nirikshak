@@ -1,0 +1,5 @@
+file,label,source,time,verified
+clip01_030.5s_occluded.jpg,occluded,clip01,30.5,no (Claude-labelled)
+clip01_031.0s_occluded.jpg,occluded,clip01,31.0,no (Claude-labelled)
+clip01_044.0s_occluded.jpg,occluded,clip01,44.0,no (Claude-labelled)
+clip01_044.5s_occluded.jpg,occluded,clip01,44.5,no (Claude-labelled)

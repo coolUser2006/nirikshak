@@ -1,0 +1,7 @@
+file,label,source,time,verified
+clip01_030.5s_occluded.jpg,occluded,clip01,30.5,no (Claude-labelled)
+clip01_031.0s_occluded.jpg,occluded,clip01,31.0,no (Claude-labelled)
+clip01_044.0s_occluded.jpg,occluded,clip01,44.0,no (Claude-labelled)
+clip01_044.5s_occluded.jpg,occluded,clip01,44.5,no (Claude-labelled)
+nov6_134052_img01_occluded.jpg,occluded,nov6_afternoon_stills,2026-11-06 13:40:52,no (Claude-labelled)
+nov6_134127_img07_occluded.jpg,occluded,nov6_afternoon_stills,2026-11-06 13:41:27,no (Claude-labelled)
